@@ -1,0 +1,3 @@
+1;Air Jordan 1 Snakeskin;43;160;220;Ordered;20.09.2020 00:00:00;HOLD;Revolut_2690
+1;Yeezy 350 Zyon;39;220;260;Ordered;02.09.2020 00:00:00;HOLD;iCard_5544
+1;Air Jordan 1 Japan;44;170;220;Ordered;05/09/2020 00:00:00;HOLD;Revolut_2690;False

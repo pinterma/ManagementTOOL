@@ -1,0 +1,4 @@
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL.DLL\bin\Debug\ManagementTOOL.Object.dll
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL.DLL\bin\Debug\ManagementTOOL.Object.pdb
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL.DLL\obj\Debug\ManagementTOOL.Object.dll
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL.DLL\obj\Debug\ManagementTOOL.Object.pdb

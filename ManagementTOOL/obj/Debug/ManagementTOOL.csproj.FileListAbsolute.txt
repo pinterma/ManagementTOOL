@@ -1,0 +1,16 @@
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\bin\Debug\ManagementTOOL.exe.config
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\bin\Debug\ManagementTOOL.exe
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\bin\Debug\ManagementTOOL.pdb
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\bin\Debug\Guna.UI.dll
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.frmMain.resources
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.frmListings.resources
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.frmNewItem.resources
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.Properties.Resources.resources
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.csproj.CopyComplete
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.exe
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.pdb
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.frmNewProfile.resources
+C:\Users\mario\source\repos\ManagementTOOL\ManagementTOOL\obj\Debug\ManagementTOOL.frmNewProvider.resources

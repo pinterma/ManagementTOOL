@@ -1,0 +1,3 @@
+iCard;2000;iCard
+Revolut;3000;Revolut
+Revolut_7749;2000;Revolut123
